@@ -1,25 +1,21 @@
-#include <cstdint>
+#iostream
+#chrono
+#thread
 
-struct EngineMetrics {
-    float currentFps;
-    float neonLoadPercent;
-    uint32_t activeBuffersCount;
-    bool zeroCopyActive;
-};
-
-#ifdef __cplusplus
 extern "C" {
-#endif
+    struct EngineMetrics {
+        int fps;
+        float neonLoad;
+        int activeBuffers;
+    };
 
-__attribute__((visibility("default"))) 
-void GetEngineTelemetry(EngineMetrics* outMetrics) {
-    if (outMetrics == nullptr) return;
-    outMetrics->currentFps = 60.0f;
-    outMetrics->neonLoadPercent = 35.5f;
-    outMetrics->activeBuffersCount = 4;
-    outMetrics->zeroCopyActive = true;
+    // Funkcja generująca dynamiczną telemetrię w pętli
+    __attribute__((visibility("default")))
+    void GetEngineMetrics(EngineMetrics* metrics, int iteration) {
+        // Symulacja zmiennego obciążenia procesora i FPS zależnego od iteracji
+        metrics->fps = 58 + (iteration % 5);
+        metrics->neonLoad = 32.0f + (iteration * 1.5f);
+        if (metrics->neonLoad > 85.0f) metrics->neonLoad = 40.0f; // reset pętli obciążenia
+        metrics->activeBuffers = 4 + (iteration % 3);
+    }
 }
-
-#ifdef __cplusplus
-}
-#endif
