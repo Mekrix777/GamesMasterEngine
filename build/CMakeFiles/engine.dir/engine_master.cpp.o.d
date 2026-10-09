@@ -1,0 +1,28 @@
+CMakeFiles/engine.dir/engine_master.cpp.o: \
+  /data/data/com.termux/files/home/GamesMasterEngine/engine_master.cpp \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/cstdint \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/__config \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/__config_site \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/__configuration/abi.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/__configuration/compiler.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/__configuration/platform.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/features.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/sys/cdefs.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/android/versioning.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/android/api-level.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/android/ndk-version.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/__configuration/availability.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/__configuration/language.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/stdint.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/stdint.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/bits/wchar_limits.h \
+  /data/data/com.termux/files/usr/bin/../../usr/include/c++/v1/stddef.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/stddef.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_header_macro.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_ptrdiff_t.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_size_t.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_wchar_t.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_null.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_nullptr_t.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_max_align_t.h \
+  /data/data/com.termux/files/usr/lib/clang/21/include/__stddef_offsetof.h

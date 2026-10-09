@@ -1,0 +1,14 @@
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/GamesMasterEngine.GeneratedMSBuildEditorConfig.editorconfig
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/GamesMasterEngine.AssemblyInfoInputs.cache
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/GamesMasterEngine.AssemblyInfo.cs
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/GamesMasterEngine.csproj.CoreCompileInputs.cache
+/data/data/com.termux/files/home/GamesMasterEngine/bin/Debug/net8.0/GamesMasterEngine
+/data/data/com.termux/files/home/GamesMasterEngine/bin/Debug/net8.0/GamesMasterEngine.deps.json
+/data/data/com.termux/files/home/GamesMasterEngine/bin/Debug/net8.0/GamesMasterEngine.runtimeconfig.json
+/data/data/com.termux/files/home/GamesMasterEngine/bin/Debug/net8.0/GamesMasterEngine.dll
+/data/data/com.termux/files/home/GamesMasterEngine/bin/Debug/net8.0/GamesMasterEngine.pdb
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/GamesMasterEngine.dll
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/refint/GamesMasterEngine.dll
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/GamesMasterEngine.pdb
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/GamesMasterEngine.genruntimeconfig.cache
+/data/data/com.termux/files/home/GamesMasterEngine/obj/Debug/net8.0/ref/GamesMasterEngine.dll
